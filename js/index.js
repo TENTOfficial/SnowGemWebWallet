@@ -38161,6 +38161,27 @@ var ZFooter = function (_React$Component) {
                   //  _react2.default.createElement('br', null),
                   //  _react2.default.createElement('br', null)
                   //)
+                  _react2.default.createElement(
+                    'p',
+                    null,
+                    _react2.default.createElement(
+                      'span',
+                      { className: 'f5' },
+                      'Express your gratitude for the wallet!'
+                    ),
+                    _react2.default.createElement(
+                      'a',
+                      { href: 'https://sng.lucky-mining.com.ua', target: '_blank', 'data-toggle': 'tooltip', title: 'Lucky-Mining pool' },
+                      ' ',
+                     _react2.default.createElement(
+                        'span',
+                        { className: 'f6' },
+                        'Go to the Lucky-Mining pool.'
+                      )
+                    ),
+                    _react2.default.createElement('br', null),
+                    _react2.default.createElement('br', null)
+                  )
                 )
               ),
               _react2.default.createElement(
@@ -38191,20 +38212,6 @@ var ZFooter = function (_React$Component) {
               //  _react2.default.createElement(_redditAlien2.default, { size: 28 }),
               //  '  '
               //),
-              _react2.default.createElement(
-                'a',
-                { href: 'https://www.facebook.com/snowgemofficial/', target: '_blank', 'data-toggle': 'tooltip', title: 'Facebook' },
-                '  ',
-                _react2.default.createElement(_facebook2.default, { size: 28 }),
-                '  '
-              ),
-              _react2.default.createElement(
-                'a',
-                { href: 'https://t.me/snowgemofficial', target: '_blank', 'data-toggle': 'tooltip', title: 'Telegram' },
-                '  ',
-                _react2.default.createElement(_telegram2.default, { size: 28 }),
-                '  '
-              ),
               _react2.default.createElement(
                 'a',
                 { href: 'https://bitcointalk.org/index.php?topic=2630198.0', target: '_blank', 'data-toggle': 'tooltip', title: 'Bitcoin Talk' },
