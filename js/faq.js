@@ -30915,42 +30915,56 @@ var ZFooter = function (_React$Component) {
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://discord.gg/wvteEF3', target: '_blank', 'data-toggle': 'tooltip', title: 'Discord' },
+                { href: 'https://discord.gg/7a7XRZr', target: '_blank', 'data-toggle': 'tooltip', title: 'Discord' },
                 '  ',
                 _react2.default.createElement(_comments2.default, { size: 28 }),
                 '  '
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://twitter.com/safecoins', target: '_blank', 'data-toggle': 'tooltip', title: 'Twitter' },
+                { href: 'https://twitter.com/snowgemofficial', target: '_blank', 'data-toggle': 'tooltip', title: 'Twitter' },
                 '  ',
                 _react2.default.createElement(_twitter2.default, { size: 28 }),
                 '  '
               ),
+              //_react2.default.createElement(
+              //  'a',
+              //  { href: 'https://www.reddit.com/r/Snowgem/', target: '_blank', 'data-toggle': 'tooltip', title: 'Reddit' },
+              //  '  ',
+              //  _react2.default.createElement(_redditAlien2.default, { size: 28 }),
+              //  '  '
+              //),
               _react2.default.createElement(
                 'a',
-                { href: 'https://www.reddit.com/r/SafeCoins/', target: '_blank', 'data-toggle': 'tooltip', title: 'Reddit' },
+                { href: 'https://www.facebook.com/snowgemofficial/', target: '_blank', 'data-toggle': 'tooltip', title: 'Facebook' },
                 '  ',
-                _react2.default.createElement(_redditAlien2.default, { size: 28 }),
+                _react2.default.createElement(_facebook2.default, { size: 28 }),
                 '  '
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://bitcointalk.org/index.php?topic=2838370', target: '_blank', 'data-toggle': 'tooltip', title: 'Bitcoin Talk' },
+                { href: 'https://t.me/snowgemofficial', target: '_blank', 'data-toggle': 'tooltip', title: 'Telegram' },
+                '  ',
+                _react2.default.createElement(_telegram2.default, { size: 28 }),
+                '  '
+              ),
+              _react2.default.createElement(
+                'a',
+                { href: 'https://bitcointalk.org/index.php?topic=2630198.0', target: '_blank', 'data-toggle': 'tooltip', title: 'Bitcoin Talk' },
                 '  ',
                 _react2.default.createElement(_bitcoin2.default, { size: 28 }),
                 '  '
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://github.com/OleksandrBlack/mysafecoinwallet', target: '_blank', 'data-toggle': 'tooltip', title: 'Source Code' },
+                { href: 'https://github.com/Snowgem/SnowGemWebWallet.git', target: '_blank', 'data-toggle': 'tooltip', title: 'Source Code' },
                 '  ',
                 _react2.default.createElement(_github2.default, { size: 28 }),
                 ' '
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'mailto:fair-exchange@protonmail.com', target: '_blank', 'data-toggle': 'tooltip', title: 'info@zel.cash' },
+                { href: 'mailto:support@snowgem.org', target: '_blank', 'data-toggle': 'tooltip', title: 'info@zel.cash' },
                 '  ',
                 _react2.default.createElement(_envelopeO2.default, { size: 28 }),
                 '  '
@@ -31666,7 +31680,7 @@ var ZFaq = function (_React$Component) {
               ' ',
               _react2.default.createElement(
                 'a',
-                { href: 'https://github.com/OleksandrBlack/mysafecoinwallet' },
+                { href: 'https://github.com/Snowgem/SnowGemWebWallet.git' },
                 _react2.default.createElement(
                   'span',
                   { className: 'faq3c' },

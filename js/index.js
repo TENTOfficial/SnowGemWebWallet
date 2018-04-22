@@ -38172,42 +38172,56 @@ var ZFooter = function (_React$Component) {
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://discord.gg/wvteEF3', target: '_blank', 'data-toggle': 'tooltip', title: 'Discord' },
+                { href: 'https://discord.gg/7a7XRZr', target: '_blank', 'data-toggle': 'tooltip', title: 'Discord' },
                 '  ',
                 _react2.default.createElement(_comments2.default, { size: 28 }),
                 '  '
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://twitter.com/safecoins', target: '_blank', 'data-toggle': 'tooltip', title: 'Twitter' },
+                { href: 'https://twitter.com/snowgemofficial', target: '_blank', 'data-toggle': 'tooltip', title: 'Twitter' },
                 '  ',
                 _react2.default.createElement(_twitter2.default, { size: 28 }),
                 '  '
               ),
+              //_react2.default.createElement(
+              //  'a',
+              //  { href: 'https://www.reddit.com/r/Snowgem/', target: '_blank', 'data-toggle': 'tooltip', title: 'Reddit' },
+              //  '  ',
+              //  _react2.default.createElement(_redditAlien2.default, { size: 28 }),
+              //  '  '
+              //),
               _react2.default.createElement(
                 'a',
-                { href: 'https://www.reddit.com/r/SafeCoins/', target: '_blank', 'data-toggle': 'tooltip', title: 'Reddit' },
+                { href: 'https://www.facebook.com/snowgemofficial/', target: '_blank', 'data-toggle': 'tooltip', title: 'Facebook' },
                 '  ',
-                _react2.default.createElement(_redditAlien2.default, { size: 28 }),
+                _react2.default.createElement(_facebook2.default, { size: 28 }),
                 '  '
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://bitcointalk.org/index.php?topic=2838370', target: '_blank', 'data-toggle': 'tooltip', title: 'Bitcoin Talk' },
+                { href: 'https://t.me/snowgemofficial', target: '_blank', 'data-toggle': 'tooltip', title: 'Telegram' },
+                '  ',
+                _react2.default.createElement(_telegram2.default, { size: 28 }),
+                '  '
+              ),
+              _react2.default.createElement(
+                'a',
+                { href: 'https://bitcointalk.org/index.php?topic=2630198.0', target: '_blank', 'data-toggle': 'tooltip', title: 'Bitcoin Talk' },
                 '  ',
                 _react2.default.createElement(_bitcoin2.default, { size: 28 }),
                 '  '
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://github.com/OleksandrBlack/MySnowgemWallet', target: '_blank', 'data-toggle': 'tooltip', title: 'Source Code' },
+                { href: 'https://github.com/Snowgem/SnowGemWebWallet.git', target: '_blank', 'data-toggle': 'tooltip', title: 'Source Code' },
                 '  ',
                 _react2.default.createElement(_github2.default, { size: 28 }),
                 ' '
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'mailto:fair-exchange@protonmail.com', target: '_blank', 'data-toggle': 'tooltip', title: 'info@zel.cash' },
+                { href: 'mailto:support@snowgem.org', target: '_blank', 'data-toggle': 'tooltip', title: 'info@zel.cash' },
                 '  ',
                 _react2.default.createElement(_envelopeO2.default, { size: 28 }),
                 '  '
@@ -83103,7 +83117,7 @@ module.exports = exports['default'];
 /* 538 */
 /***/ (function(module, exports) {
 
-module.exports = {"name":"MySnowgem","version":"v2.1.0","description":"Secure Snowgem wallet online","main":"index.js","repository":"https://github.com/OleksandrBlack/MySnowgemWallet.git","author":"TheTrunk","license":"MIT","scripts":{"start":"webpack-dev-server","watch":"webpack --watch","build":"webpack"},"dependencies":{"axios":"^0.16.2","babel-preset-env":"^1.6.0","bip32-utils":"git://github.com/TheTrunk/bip32-utils#master","bitcoinjs-lib":"git://github.com/TheTrunk/bitcoinjs-lib#master","bluebird":"^3.5.0","bootstrap":"^4.0.0-alpha.6","bs58":"^4.0.1","bs58check":"^2.0.2","classnames":"^2.2.5","css-loader":"^0.28.4","file-loader":"^0.11.2","file-saver":"^1.3.3","fs":"^0.0.1-security","hash.js":"^1.1.3","html-webpack-plugin":"^2.30.1","zelcashjs":"git://github.com/TheTrunk/zelcashjs#master","path":"^0.12.7","qrcode.react":"^0.7.1","react":"^15.6.1","react-addons-css-transition-group":"^15.6.0","react-addons-transition-group":"^15.6.0","react-bootstrap":"^0.31.1","react-copy-to-clipboard":"^5.0.0","react-dom":"^15.6.1","react-icons":"^2.2.5","react-table":"^6.5.3","reactstrap":"^4.8.0","style-loader":"^0.18.2","throttled-queue":"^1.0.4","webpack":"^3.3.0","webpack-dev-server":"^2.5.1","html-react-parser":"^0.4.1"},"devDependencies":{"babel-core":"^6.25.0","babel-loader":"^7.1.1","babel-preset-es2015":"^6.24.1","babel-preset-react":"^6.24.1","css-loader":"^0.28.4"}}
+module.exports = {"name":"MySnowgem","version":"v2.1.0","description":"Secure Snowgem wallet online","main":"index.js","repository":"https://github.com/Snowgem/SnowGemWebWallet.git.git","author":"TheTrunk","license":"MIT","scripts":{"start":"webpack-dev-server","watch":"webpack --watch","build":"webpack"},"dependencies":{"axios":"^0.16.2","babel-preset-env":"^1.6.0","bip32-utils":"git://github.com/TheTrunk/bip32-utils#master","bitcoinjs-lib":"git://github.com/TheTrunk/bitcoinjs-lib#master","bluebird":"^3.5.0","bootstrap":"^4.0.0-alpha.6","bs58":"^4.0.1","bs58check":"^2.0.2","classnames":"^2.2.5","css-loader":"^0.28.4","file-loader":"^0.11.2","file-saver":"^1.3.3","fs":"^0.0.1-security","hash.js":"^1.1.3","html-webpack-plugin":"^2.30.1","zelcashjs":"git://github.com/TheTrunk/zelcashjs#master","path":"^0.12.7","qrcode.react":"^0.7.1","react":"^15.6.1","react-addons-css-transition-group":"^15.6.0","react-addons-transition-group":"^15.6.0","react-bootstrap":"^0.31.1","react-copy-to-clipboard":"^5.0.0","react-dom":"^15.6.1","react-icons":"^2.2.5","react-table":"^6.5.3","reactstrap":"^4.8.0","style-loader":"^0.18.2","throttled-queue":"^1.0.4","webpack":"^3.3.0","webpack-dev-server":"^2.5.1","html-react-parser":"^0.4.1"},"devDependencies":{"babel-core":"^6.25.0","babel-loader":"^7.1.1","babel-preset-es2015":"^6.24.1","babel-preset-react":"^6.24.1","css-loader":"^0.28.4"}}
 
 /***/ })
 /******/ ]);
