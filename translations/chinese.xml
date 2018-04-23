@@ -51,7 +51,7 @@
 	<translation id="import6">Invalid private key</translation>
 	<translation id="import7">Unlock Private Key</translation>
 	<translation id="wallet1">提醒</translation>
-	<translation id="wallet2">請確認您已記下您的密語。</translation>
+	<translation id="wallet2">請確認您已記下您的密語並且不要直接發送到網絡錢包。</translation>
 	<translation id="wallet3">Secret phrase too short</translation>
 	<translation id="wallet4">創建錢包</translation>
 	<translation id="settings1">Snowgem Wallet Settings</translation>

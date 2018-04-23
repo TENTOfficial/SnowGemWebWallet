@@ -51,7 +51,7 @@
 	<translation id="import6">Неприпустимий закритий ключ</translation>
 	<translation id="import7">Розблокувати Закритий Ключ</translation>
 	<translation id="wallet1">Попередження.</translation>
-	<translation id="wallet2">Переконайтеся, що ви десь зберегли секретну фразу.</translation>
+	<translation id="wallet2">Переконайтеся, що ви десь зберегли секретну фразу і не переходьте прямо до веб-кошика.</translation>
 	<translation id="wallet3">Секретна фраза занадто коротка</translation>
 	<translation id="wallet4">Створити Гаманець</translation>
 	<translation id="settings1">Налаштування Гаманця Snowgem</translation>

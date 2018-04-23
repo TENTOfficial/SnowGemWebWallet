@@ -50704,7 +50704,7 @@ var ZWalletUnlockKey = function (_React$Component3) {
             _react2.default.createElement(
               'span',
               { className: 'wallet2' },
-              'Make sure you have saved your secret phrase somewhere. '
+              'Make sure you have saved your secret phrase somewhere and do not mine directly to web wallet. '
             )
           ),
           this.state.secretPhraseTooShort ? _react2.default.createElement(

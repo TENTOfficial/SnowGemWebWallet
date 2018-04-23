@@ -30883,27 +30883,6 @@ var ZFooter = function (_React$Component) {
                     { className: 'f2' },
                     'Keys are validated client-side and do not leave your browser or network. You are responsible for keeping your own keys XSG!!!'
                   ),
-                  //_react2.default.createElement(
-                  //  'p',
-                  //  null,
-                  //  _react2.default.createElement(
-                  //    'span',
-                  //    { className: 'f3' },
-                  //    'All donations goes directly to charity!'
-                  //  ),
-                  //  _react2.default.createElement(
-                  //    'a',
-                  //    { href: 'https://www.zel.cash/charity/', target: '_blank', 'data-toggle': 'tooltip', title: 'Snowgem Charity' },
-                  //    ' ',
-                  //    _react2.default.createElement(
-                  //      'span',
-                  //      { className: 'f4' },
-                  //      'More about Snowgem charity'
-                  //    )
-                  //  ),
-                  //  _react2.default.createElement('br', null),
-                  //  _react2.default.createElement('br', null)
-                  //)
                   _react2.default.createElement(
                     'p',
                     null,
@@ -30971,7 +30950,7 @@ var ZFooter = function (_React$Component) {
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'mailto:support@snowgem.org', target: '_blank', 'data-toggle': 'tooltip', title: 'info@zel.cash' },
+                { href: 'mailto:support@snowgem.org', target: '_blank', 'data-toggle': 'tooltip', title: 'support@snowgem.org' },
                 '  ',
                 _react2.default.createElement(_envelopeO2.default, { size: 28 }),
                 '  '
@@ -31716,11 +31695,11 @@ var ZFaq = function (_React$Component) {
               ' ',
               _react2.default.createElement(
                 'a',
-                { href: 'https://github.com/zelcash/myzelcash.git' },
+                { href: 'https://myzenwallet.io/' },
                 _react2.default.createElement(
                   'span',
                   { className: 'faq4c' },
-                  'MyZelWallet\'s'
+                  'MyZenWallet\'s'
                 )
               ),
               ' ',
@@ -31736,14 +31715,30 @@ var ZFaq = function (_React$Component) {
                 _react2.default.createElement(
                   'span',
                   { className: 'faq4e' },
-                  'MyEtherWallet\'s.'
+                  'MyEtherWallet\'s'
+                )
+              ),
+              ' ',
+              _react2.default.createElement(
+                'span',
+                { className: 'faq4d' },
+                ' and a special thanks to '
+              ),
+              ' ',
+              _react2.default.createElement(
+                'a',
+                { href: 'https://github.com/TheTrunk' },
+                _react2.default.createElement(
+                  'span',
+                  { className: 'faq4e' },
+                  'TheTrunk.'
                 )
               ),
               ' ',
               _react2.default.createElement(
                 'span',
                 { className: 'faq4f' },
-                'We also want to provide the people the ability to interact with the Snowgem blockchain easily, without having to run a full node.'
+                'We also want to provide the people the ability to interact with the SnowGem blockchain easily, without having to run a full node.'
               )
             )
           )

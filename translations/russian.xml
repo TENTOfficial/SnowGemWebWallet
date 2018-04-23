@@ -51,7 +51,7 @@
 	<translation id="import6">Недопустимый закрытый ключ</translation>
 	<translation id="import7">Разблокировать Закрытый Ключ</translation>
 	<translation id="wallet1">Предупреждение.</translation>
-	<translation id="wallet2">Убедитесь, что вы где-то сохранили секретную фразу.</translation>
+	<translation id="wallet2">Убедитесь, что вы где-то сохранили секретную фразу и не прячу непосредственно в веб-кошелек.</translation>
 	<translation id="wallet3">Секретная фраза слишком короткая</translation>
 	<translation id="wallet4">Создать Кошелек</translation>
 	<translation id="settings1">Настройки Кошелька Snowgem</translation>

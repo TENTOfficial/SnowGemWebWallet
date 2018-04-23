@@ -51,7 +51,7 @@
 	<translation id="import6">Invalid private key</translation>
 	<translation id="import7">Unlock Private Key</translation>
 	<translation id="wallet1">Warning.</translation>
-	<translation id="wallet2">Make sure you have saved your secret phrase somewhere.</translation>
+	<translation id="wallet2">Make sure you have saved your secret phrase somewhere and do not mine directly to web wallet.</translation>
 	<translation id="wallet3">Secret phrase too short</translation>
 	<translation id="wallet4">Generate/Unlock Wallet</translation>
 	<translation id="settings1">Snowgem Wallet Settings</translation>
