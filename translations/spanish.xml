@@ -21,7 +21,7 @@
 	<translation id="faq4f">También queremos proporcionar a la gente la posibilidad de interactuar fácilmente con el blockchain de Snowgem, sin tener que ejecutar un nodo completo.</translation>
 	<translation id="guide1a">1. Creando una nueva cartera</translation>
 	<translation id="guide1b">Ir a</translation>
-  <translation id="guide1c">Introduce una frase secreta fuerte pero fácil de recordar. Guárdala en algún lugar y NO la olvides.</translation>
+  	<translation id="guide1c">Introduce una frase secreta fuerte pero fácil de recordar. Guárdala en algún lugar y NO la olvides.</translation>
 	<translation id="guide1d">Haz click en</translation>
 	<translation id="guide1e">el botón Generar/Desbloquear cartera</translation>
 	<translation id="guide1f">debajo de la entrada.</translation>
@@ -46,7 +46,7 @@
 	<translation id="import1">Error.</translation>
 	<translation id="import2">Las claves en los ficheros están corruptas</translation>
 	<translation id="import3">Seleccionar fichero wallet.dat</translation>
-  <translation id="import4">En Windows, debería estar en</translation>
+  	<translation id="import4">En Windows, debería estar en</translation>
 	<translation id="import5">En Mac/Linux, debería estar en</translation>
 	<translation id="import6">Clave Privada inválida</translation>
 	<translation id="import7">Desbloquear Clave Privada</translation>
@@ -77,7 +77,7 @@
 	<translation id="send8">Sí, me gustaría enviar estos XSG</translation>
 	<translation id="send9">Enviar</translation>
 	<translation id="print1">Cartera Imprimible</translation>
-  <translation id="menu1">Info</translation>
+  	<translation id="menu1">Info</translation>
 	<translation id="menu2">Enviar XSG</translation>
 	<translation id="menu3">Exportar</translation>
 	<translation id="export1">Volcar Clave Privada</translation>
