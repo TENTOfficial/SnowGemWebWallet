@@ -33,7 +33,7 @@
   background-position: center; 
   background-size: auto;
   background-image: url(./loader.gif); 
-  background-color:#00172A; 
+  background-color:#2d2d2d; 
   z-index:99; 
 }
 .preloader img{
@@ -54,14 +54,14 @@
 }
 /*Translations*/
 .footer2{
-    background: #00172A;
+    background: #182237;
     float:right;
     position:relative;
 }
 .aligner2{
     margin-left:auto; 
     margin-right:5px;
-    text-align:center;
+    text-align: right;
 }
 .aligner2 a {
     color: #ffffff;
@@ -78,7 +78,8 @@ text-decoration: none;
 }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<link rel="shortcut icon" href="favicon.ico"></head>
+    <link rel="shortcut icon" href="favicon.ico"></head>
+</head>
 <body>
     <script>
         function createCookie(name, value, secs) {
@@ -104,13 +105,13 @@ text-decoration: none;
     </script>
     <script>
         $(window).load(function () {
-            if (readCookie('MySnowgem') == null) {
+            if (readCookie('mysnowgem') == null) {
                 $('#preloader').delay(3000).fadeOut('slow');}
-            createCookie('MySnowgem',1,300);
+            createCookie('mysnowgem',1,300);
         });
     </script>
     <script>
-    if (readCookie('MySnowgem') != null) {
+    if (readCookie('mysnowgem') != null) {
         document.write("<style>.preloader {display:none;}</style>");
     }
     </script>
@@ -146,8 +147,8 @@ text-decoration: none;
                 [PT]
             </a>
             <a class="spanish" id="spanish" href="javascript:;" onclick="testch(this.id)">
-                [SP]
-            </a>
+              [SP]
+          </a>
         </div>
     </div>
     <script>

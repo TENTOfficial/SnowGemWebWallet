@@ -9,16 +9,16 @@
 	<translation id="faq1a">Воп.: Защищены ли мои личные ключи?</translation>
 	<translation id="faq1b">Отв.: Да, они защищены, ваши личные ключи никогда не покидают ваш браузер.</translation>
 	<translation id="faq2a">Воп.: На сколько это безопасно? Если в браузере!</translation>
-	<translation id="faq2b">Отв.: MySnowgem воспроизвел основные функции демонов Snowgem в JavaScript! Таким образом, процесс создания и подписания транзакций выполняется в браузере. Никакая конфиденциальная информация не отправляется через сеть.</translation>
+	<translation id="faq2b">Отв.: MySnowgem воспроизвел основные функции демонов SnowGem в JavaScript! Таким образом, процесс создания и подписания транзакций выполняется в браузере. Никакая конфиденциальная информация не отправляется через сеть.</translation>
 	<translation id="faq3a">Воп.: Могу ли я получить исходный код?</translation>
-	<translation id="faq3b">Отв.:https://github.com/OleksandrBlack/MySnowgemWallet.git</translation>
+	<translation id="faq3b">Отв.:https://github.com/Scribbles-MCAMK/SnowGem-Web-Wallet</translation>
 	<translation id="faq3b">Перейдите сюда</translation>
 	<translation id="faq4a">Воп.: Почему вы это делаете?</translation>
 	<translation id="faq4b">Отв.: MySnowgem был вдохновлен</translation>
-	<translation id="faq4c">MyZelCashWallet's</translation>
+	<translation id="faq4c">MyZenWallet's</translation>
 	<translation id="faq4d">который был вдохновлен</translation>
 	<translation id="faq4e">MyEtherWallet's.</translation>
-	<translation id="faq4f">Мы также хотим, чтобы люди могли легко взаимодействовать с блок-цепочкой Snowgem без необходимости запуска полного узла.</translation>
+	<translation id="faq4f">Мы также хотим, чтобы люди могли легко взаимодействовать с блок-цепочкой SnowGem без необходимости запуска полного узла.</translation>
 	<translation id="guide1a">1. Создание нового кошелька</translation>
 	<translation id="guide1b">Перейти на</translation>
 	<translation id="guide1c">Введите сильную, но легко запоминающуюся секретную фразу. Сохраните ее где-нибудь и НЕ забудьте о ней.</translation>
@@ -51,10 +51,10 @@
 	<translation id="import6">Недопустимый закрытый ключ</translation>
 	<translation id="import7">Разблокировать Закрытый Ключ</translation>
 	<translation id="wallet1">Предупреждение.</translation>
-	<translation id="wallet2">Убедитесь, что вы где-то сохранили секретную фразу и не прячу непосредственно в веб-кошелек.</translation>
+	<translation id="wallet2">Убедитесь, что вы где-то сохранили секретную фразу.</translation>
 	<translation id="wallet3">Секретная фраза слишком короткая</translation>
 	<translation id="wallet4">Создать Кошелек</translation>
-	<translation id="settings1">Настройки Кошелька Snowgem</translation>
+	<translation id="settings1">Настройки Кошелька SnowGem</translation>
 	<translation id="settings2">Insight API</translation>
 	<translation id="settings3">Сжать Открытый Ключ</translation>
 	<translation id="settings4">Показать Генератор Адресов</translation>
@@ -82,7 +82,5 @@
 	<translation id="menu3">Экспортировать</translation>
 	<translation id="export1">Дамп Закрытого Ключа</translation>
 	<translation id="export2">Загрузить Закрытые Ключи</translation>
-	<translation id="main1">Snowgem Кошелек</translation>
-	<translation id="f5">Выразите свою благодарность за кошелек!</translation>
-	<translation id="f6">Переходите на пул Lucky-Mining.</translation>
+	<translation id="main1">SnowGem Кошелек</translation>
 </translations>
