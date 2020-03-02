@@ -1,6 +1,6 @@
 # mysnowgem wallet
 
-MySnowgem Wallet is a client-side browser-based wallet for SnowGem.
+MySnowGem Wallet is a client-side browser-based wallet for SnowGem.
 
 Officially avaiable at: https://wallet.snowgem.org
 
