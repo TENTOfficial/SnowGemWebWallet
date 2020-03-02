@@ -399,7 +399,7 @@ module.exports = warning;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -796,7 +796,7 @@ module.exports = ExecutionEnvironment;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -1183,7 +1183,7 @@ module.exports = ReactComponentTreeHook;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 function makeEmptyFunction(arg) {
@@ -1225,7 +1225,7 @@ module.exports = emptyFunction;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -1255,7 +1255,7 @@ module.exports = { debugTool: debugTool };
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -2449,7 +2449,7 @@ module.exports = ReactElement;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -2743,7 +2743,7 @@ module.exports = React;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -3622,7 +3622,7 @@ module.exports = ReactInstanceMap;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -3680,7 +3680,7 @@ module.exports = emptyObject;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -3939,7 +3939,7 @@ module.exports = EventPluginRegistry;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -5588,7 +5588,7 @@ module.exports = EventPluginUtils;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -6261,7 +6261,7 @@ module.exports = LinkedValueUtils;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -6312,7 +6312,7 @@ module.exports = ReactComponentEnvironment;
  * of patent rights can be found in the PATENTS file in the same directory.
  *
  * @typechecks
- * 
+ *
  */
 
 /*eslint-disable no-self-compare */
@@ -6431,7 +6431,7 @@ module.exports = shouldUpdateReactComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -11571,7 +11571,7 @@ module.exports = ReactNoopUpdateQueue;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -11596,7 +11596,7 @@ module.exports = REACT_ELEMENT_TYPE;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -12474,7 +12474,7 @@ module.exports = ReactDOMComponentFlags;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -12538,7 +12538,7 @@ module.exports = accumulateInto;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -12612,7 +12612,7 @@ module.exports = getTextContentAccessor;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -12737,7 +12737,7 @@ module.exports = PooledClass.addPoolingTo(CallbackQueue);
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -12892,7 +12892,7 @@ module.exports = inputValueTracking;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -13467,7 +13467,7 @@ module.exports = DOMPropertyOperations;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -13830,7 +13830,7 @@ module.exports = instantiateReactComponent;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -15767,7 +15767,7 @@ module.exports = ReactChildren;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -16067,7 +16067,7 @@ module.exports = traverseAllChildren;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -16399,7 +16399,7 @@ module.exports = checkReactTypeSpec;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -16430,7 +16430,7 @@ module.exports = ReactPropTypeLocationNames;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -18692,7 +18692,7 @@ module.exports = ChangeEventPlugin;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -18786,7 +18786,7 @@ module.exports = ReactRef;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -18885,7 +18885,7 @@ module.exports = ReactOwner;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -19252,7 +19252,7 @@ module.exports = ReactDebugTool;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -19295,7 +19295,7 @@ module.exports = ReactInvalidSetStateWarningHook;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -21738,7 +21738,7 @@ module.exports = hyphenate;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  * @typechecks static-only
  */
 
@@ -24144,7 +24144,7 @@ module.exports = checkReactTypeSpec;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -24175,7 +24175,7 @@ module.exports = ReactPropTypeLocationNames;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -24201,7 +24201,7 @@ module.exports = getNextDebugID;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -24226,7 +24226,7 @@ module.exports = REACT_ELEMENT_TYPE;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -24272,7 +24272,7 @@ module.exports = getIteratorFn;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -24450,7 +24450,7 @@ module.exports = ReactServerRenderingTransaction;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -25768,7 +25768,7 @@ module.exports = getNodeForCharacterOffset;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 var isTextNode = __webpack_require__(204);
@@ -26371,7 +26371,7 @@ module.exports = SelectEventPlugin;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -27246,7 +27246,7 @@ module.exports = ReactMarkupChecksum;
  * LICENSE file in the root directory of this source tree. An additional grant
  * of patent rights can be found in the PATENTS file in the same directory.
  *
- * 
+ *
  */
 
 
@@ -27762,7 +27762,7 @@ var ZNavbar = function (_React$Component) {
             _react2.default.createElement(
               _reactstrap.NavbarBrand,
               { className: 'style', href: '/' },
-              _react2.default.createElement('img', { src: './snowgemlogo.png', height: 50 })
+              _react2.default.createElement('img', { src: 'img/webwalletlogo.png', height: 50 })
             ),
             _react2.default.createElement(
               _reactstrap.Collapse,
@@ -30774,7 +30774,7 @@ exports = module.exports = __webpack_require__(50)(undefined);
 
 
 // module
-exports.push([module.i, ".navbarstyle {\r\n    background: #142a59;\r\n    background-image: url(" + __webpack_require__(246) + ");\r\n    background-size: 100%;\r\n}\r\n.container {\r\n    max-width: 1200px;\r\n      margin: 0 auto;\r\n}\r\n.footerstyle{\r\nbackground: #182237;\r\n}\r\n.style{\r\ncolor: #ffffff;\r\nfont-family: sans-serif;\r\nline-height: 2;\r\nfont-size: 24px;\r\n}\r\n.style:hover{\r\ncolor: #bbbbbb;\r\n}\r\n.style2{\r\ncolor: #ffffff;\r\nfont-family: sans-serif;\r\nline-height: 2;\r\nfont-size: 18px;\r\n}\r\n.style2:hover{\r\ncolor: #bbbbbb;\r\n}\r\n.style2:focus{\r\ncolor: #bbbbbb;\r\n}\r\n\r\n.footerstyle a {\r\n    color: #ffffff;\r\n    font-weight: bold;\r\n}\r\n.footerstyle a:hover {\r\ncolor: #bbbbbb;\r\ntext-decoration: none;\r\n}\r\n\r\n.footerstyle p{\r\n    color: #ffffff;\r\n    font-family: sans-serif;\r\n    font-size: 16px;\r\n}\r\n.links a {\r\nfont-family: sans-serif;\r\nfont-size: 18px;\r\nfont-weight: bold;\r\n}\r\n\r\n.customtoggler {\r\n    border-color: #ffffff;\r\n    width: 40px;\r\n    height: 40px;\r\n    margin-top:8px;\r\n    background-image: url(\"data:image/svg+xml;charset=utf8,%3Csvg  viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E\");\r\n}\r\n.customtoggler:focus{\r\n    outline:0;\r\n}\r\n.outer {\r\n  width: 100%;\r\n  text-align: center;\r\n}\r\n.content-text{\r\n    text-align: center;\r\n    display: inline-block;\r\n}\r\n", ""]);
+exports.push([module.i, ".navbarstyle {\r\n    background: #d21e2b;\r\n    background-image: url(" + __webpack_require__(246) + ");\r\n    background-size: 100%;\r\n}\r\n.container {\r\n    max-width: 1200px;\r\n      margin: 0 auto;\r\n}\r\n.footerstyle{\r\nbackground: #d21e2b;\r\n}\r\n.style{\r\ncolor: #ffffff;\r\nfont-family: sans-serif;\r\nline-height: 2;\r\nfont-size: 24px;\r\n}\r\n.style:hover{\r\ncolor: #bbbbbb;\r\n}\r\n.style2{\r\ncolor: #ffffff;\r\nfont-family: sans-serif;\r\nline-height: 2;\r\nfont-size: 18px;\r\n}\r\n.style2:hover{\r\ncolor: #bbbbbb;\r\n}\r\n.style2:focus{\r\ncolor: #bbbbbb;\r\n}\r\n\r\n.footerstyle a {\r\n    color: #ffffff;\r\n    font-weight: bold;\r\n}\r\n.footerstyle a:hover {\r\ncolor: #bbbbbb;\r\ntext-decoration: none;\r\n}\r\n\r\n.footerstyle p{\r\n    color: #ffffff;\r\n    font-family: sans-serif;\r\n    font-size: 16px;\r\n}\r\n.links a {\r\nfont-family: sans-serif;\r\nfont-size: 18px;\r\nfont-weight: bold;\r\n}\r\n\r\n.customtoggler {\r\n    border-color: #ffffff;\r\n    width: 40px;\r\n    height: 40px;\r\n    margin-top:8px;\r\n    background-image: url(\"data:image/svg+xml;charset=utf8,%3Csvg  viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E\");\r\n}\r\n.customtoggler:focus{\r\n    outline:0;\r\n}\r\n.outer {\r\n  width: 100%;\r\n  text-align: center;\r\n}\r\n.content-text{\r\n    text-align: center;\r\n    display: inline-block;\r\n}\r\n", ""]);
 
 // exports
 
@@ -30899,27 +30899,6 @@ var ZFooter = function (_React$Component) {
                     'p',
                     { className: 'f2' },
                     'Keys are validated client-side and do not leave your browser or network. You are responsible for keeping your own keys safe!!!'
-                  ),
-                  _react2.default.createElement(
-                    'p',
-                    null,
-                    _react2.default.createElement(
-                      'span',
-                      { className: 'f3' },
-                      'All donations goes directly to charity!'
-                    ),
-                    _react2.default.createElement(
-                      'a',
-                      { href: 'https://www.snowgem.org/charity/', target: '_blank', 'data-toggle': 'tooltip', title: 'SnowGem Charity' },
-                      ' ',
-                      _react2.default.createElement(
-                        'span',
-                        { className: 'f4' },
-                        'More about SnowGem charity'
-                      )
-                    ),
-                    _react2.default.createElement('br', null),
-                    _react2.default.createElement('br', null)
                   )
                 )
               ),
@@ -30932,7 +30911,7 @@ var ZFooter = function (_React$Component) {
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://discord.gg/7a7XRZr', target: '_blank', 'data-toggle': 'tooltip', title: 'Discord' },
+                { href: 'https://discord.gg/jy8gsxn', target: '_blank', 'data-toggle': 'tooltip', title: 'Discord' },
                 '  ',
                 _react2.default.createElement(_comments2.default, { size: 28 }),
                 '  '
@@ -31757,7 +31736,7 @@ var ZGuide = function (_React$Component) {
                 _react2.default.createElement(
                   'span',
                   { className: 'guide1c' },
-                  'Enter a strong but easy to remember secret phrase between 16 and 256 characters. Save this somewhere and do NOT forget it.'
+                  'Enter a strong but easy to remember secret phrase. Save this somewhere and do NOT forget it.'
                 )
               ),
               _react2.default.createElement(
@@ -31775,14 +31754,14 @@ var ZGuide = function (_React$Component) {
                   _react2.default.createElement(
                     'span',
                     { className: 'guide1e' },
-                    'Unlock/Generate Wallet'
+                    'Generate/Unlock Wallet'
                   )
                 ),
                 ' ',
                 _react2.default.createElement(
                   'span',
                   { className: 'guide1f' },
-                  'down below the input.'
+                  'button down below the input.'
                 )
               ),
               _react2.default.createElement(
@@ -31913,7 +31892,7 @@ var ZGuide = function (_React$Component) {
                 _react2.default.createElement(
                   'span',
                   { className: 'guide2j' },
-                  'file'
+                  'file.'
                 )
               ),
               _react2.default.createElement(
@@ -31956,7 +31935,23 @@ var ZGuide = function (_React$Component) {
                 _react2.default.createElement(
                   'span',
                   { className: 'guide2o' },
-                  'option, paste in your private key and click the Unlock Private Key button'
+                  'option, paste in your private key and click the'
+                ),
+                ' ',
+                _react2.default.createElement(
+                  'code',
+                  null,
+                  _react2.default.createElement(
+                    'span',
+                    { className: 'guide2p' },
+                    'Unlock Private Key'
+                  )
+                ),
+                ' ',
+                _react2.default.createElement(
+                  'span',
+                  { className: 'guide2q' },
+                  'button.'
                 )
               )
             )

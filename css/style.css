@@ -1,0 +1,166 @@
+/* SnowGem WebWallet Styles */
+
+/* Mainpage */
+
+html, body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background: url("../img/wallet-bg.png") no-repeat center center fixed !important;
+}
+
+.aligner {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Top */
+
+.container-top {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 113rem;
+}
+
+.container-top a {
+    color: #111111;
+}
+
+.snowgem-url-warning {
+    padding-top: 6px;
+}
+
+.small,
+small {
+    font-size: 85px;
+}
+
+.announcement {
+    padding: 3px 10px;
+    text-align: center;
+    font-weight: 300;
+    color: #fff;
+    display: block;
+    background-color: #0e97c0
+}
+
+.annoucement-danger {
+    background-color: #df616b;
+}
+
+.button {
+    background-color: #d21e2b;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white;
+    border-radius: 4px;
+    color: #111111;
+    font-weight: bold;
+    border: 2px solid #d21e2b;
+}
+
+.button1:hover {
+    background-color: #d21e2b;
+    color: white;
+}
+
+.right-menu {
+    float: right;
+}
+
+.right-menu .menu-button-text {
+    padding-right: 10px;
+}
+
+/** Style the placeholder text **/
+input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #909;
+}
+input::-moz-placeholder { /* Firefox 19+ */
+  color: #909;
+}
+input:-ms-input-placeholder { /* IE 10+ */
+  color: #909;
+}
+input:-moz-placeholder { /* Firefox 18- */
+  color: #909;
+}
+
+/* Bottom style */
+
+#bottom {
+    margin-top: 20px;
+    padding-bottom: 0px;
+    bottom:0;
+    width:100%;
+}
+
+/* Translations */
+
+#languages {
+    background: #111111;
+    float: right;
+    position: relative;
+    width:100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+}
+
+#languages-align {
+    display: table;
+    margin: 0 auto;
+    background-color: #111111;
+}
+
+#languages-align a {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#languages-align a:hover {
+    color: #bbbbbb;
+    text-decoration: none;
+}
+
+#languages-align a:focus {
+    color: #bbbbbb;
+    text-decoration: none;
+}
+
+.copyright {
+    margin-top: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+#wallet {
+    height: 100%;
+}
+
+/* Mobile hack */
+
+@media only screen and (max-width: 320px) {
+
+.main1 {
+    font-size: 14px;
+}
+
+}

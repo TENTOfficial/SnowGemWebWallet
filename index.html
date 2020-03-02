@@ -3,80 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/style.css">
     <link rel="shortcut icon" href="favicon.ico">
-    <title>MySnowgem Wallet</title>
-    <style>
-        body {
-            display: flex;
-            min-height: 100vh;
-            flex-direction: column;
-        }
-
-        .aligner {
-            flex: 1;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        		/*Preloader*/
-
-.preloader{
-  position: fixed;
-  display: block;
-  top: 0;
-  left: 0;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-position: center; 
-  background-size: auto;
-  background-image: url(./loader.gif); 
-  background-color:#2d2d2d; 
-  z-index:99; 
-}
-.preloader img{
-  display: block;
-  margin-bottom: 5px;
-}
-.preloader span{
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
-.preloader span.second{
-  display: none;
-  color: #000;
-  font-size: 3em;
-}
-/*Translations*/
-.footer2{
-    background: #182237;
-    float:right;
-    position:relative;
-}
-.aligner2{
-    margin-left:auto; 
-    margin-right:5px;
-    text-align: right;
-}
-.aligner2 a {
-    color: #ffffff;
-    font-weight: bold;
-}
-.aligner2 a:hover {
-color: #bbbbbb;
-text-decoration: none;
-}
-
-.aligner2 a:focus {
-color: #bbbbbb;
-text-decoration: none;
-}
-    </style>
+    <title>MySnowGem Wallet</title>
+    <link rel="stylesheet" href="css/style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <link rel="shortcut icon" href="favicon.ico"></head>
 </head>
@@ -116,40 +46,61 @@ text-decoration: none;
     }
     </script>
     <div class="preloader" id="preloader"></div>
+    <div id="url-warning" style="display: none;" class="small announcement annoucement-danger">
+      <div class="container-top snowgem-url-warning">
+        <h6>
+        <strong>Attention! </strong>Stay safe by ensuring that the URL above says <strong><a href="https://wallet.snowgem.org/">https://wallet.snowgem.org/<a/></strong>. Make sure that your browser shows the <strong>green lock icon</strong>.
+        </h6>
+      </div>
+    </div>
     <div id="navbar"></div><br />
     <div class="aligner">
         <div id="wallet"></div>
         <div id="guide"></div>
         <div id="faq"></div>
-    </div><br />
+    </div>
+    <div id="bottom">
     <div id="footer"></div>
-    <div class="footer2">
-        <div class="aligner2">
-            <a class="english" id="english" href="javascript:;" onclick="testch(this.id)">
-                [EN]
+    <div id="languages">
+        <div id="languages-align">
+            <a class="chinese" id="chinese" href="javascript:;" onclick="testch(this.id)">
+                [CN]
             </a>
             <a class="czech" id="czech" href="javascript:;" onclick="testch(this.id)">
                 [CZ]
             </a>
-            <a class="russian" id="russian" href="javascript:;" onclick="testch(this.id)">
-                [RU]
-            </a>
-            <a class="ukrainian" id="ukrainian" href="javascript:;" onclick="testch(this.id)">
-                [UA]
-            </a>
-            <a class="chinese" id="chinese" href="javascript:;" onclick="testch(this.id)">
-                [ZH]
-            </a>
             <a class="german" id="german" href="javascript:;" onclick="testch(this.id)">
                 [DE]
             </a>
-            <a class="portugese" id="portugese" href="javascript:;" onclick="testch(this.id)">
-                [PT]
+            <a class="english" id="english" href="javascript:;" onclick="testch(this.id)">
+                [EN]
             </a>
             <a class="spanish" id="spanish" href="javascript:;" onclick="testch(this.id)">
-              [SP]
-          </a>
+                [ES]
+            </a>
+            <a class="french" id="french" href="javascript:;" onclick="testch(this.id)">
+                [FR]
+            </a>
+            <a class="hungarian" id="hungarian" href="javascript:;" onclick="testch(this.id)">
+                [HU]
+            </a>
+            <a class="italian" id="italian" href="javascript:;" onclick="testch(this.id)">
+                [IT]
+            </a>
+            <a class="dutch" id="dutch" href="javascript:;" onclick="testch(this.id)">
+                [NL]
+            </a>
+            <a class="polish" id="polish" href="javascript:;" onclick="testch(this.id)">
+                [PL]
+            </a>
+            <a class="romanian" id="romanian" href="javascript:;" onclick="testch(this.id)">
+                [RO]
+            </a>
+            <a class="russian" id="russian" href="javascript:;" onclick="testch(this.id)">
+                [RU]
+            </a>
         </div>
+        <div class="copyright">Made by Snow<strong>Gem</strong> &copy; 2019. Version 2.0</div>
     </div>
     <script>
         $(document).ready(function () {
@@ -183,5 +134,10 @@ text-decoration: none;
             });
         };
     </script>
-<script type="text/javascript" src="js/index.js"></script></body>
+	<script type="text/javascript" src="js/index.js"></script>
+	<script type="text/javascript" src="js/words.js"></script>
+	<script type="text/javascript">
+		document.getElementById('url-warning').style.display = 'block';
+	</script>
+</body>
 </html>
