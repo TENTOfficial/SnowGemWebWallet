@@ -30911,7 +30911,7 @@ var ZFooter = function (_React$Component) {
               ),
               _react2.default.createElement(
                 'a',
-                { href: 'https://discord.gg/jy8gsxn', target: '_blank', 'data-toggle': 'tooltip', title: 'Discord' },
+                { href: 'https://discord.gg/78rVJcH', target: '_blank', 'data-toggle': 'tooltip', title: 'Discord' },
                 '  ',
                 _react2.default.createElement(_comments2.default, { size: 28 }),
                 '  '
