@@ -30892,7 +30892,7 @@ var ZFooter = function (_React$Component) {
                     _react2.default.createElement(
                       'b',
                       null,
-                      ' wallet.snowgem.org'
+                      ' web-wallet.tent.app'
                     )
                   ),
                   _react2.default.createElement(
@@ -31695,7 +31695,7 @@ var ZFaq = function (_React$Component) {
               _react2.default.createElement(
                 'span',
                 { className: 'faq2b' },
-                'A: MySnowGem Wallet has replicated the core features of the SnowGem daemon in JavaScript! So the process of creating and signing the transactions are all done within the browser. No sensitive information is sent through the network.'
+                'A: TENT Web Wallet has replicated the core features of the SnowGem daemon in JavaScript! So the process of creating and signing the transactions are all done within the browser. No sensitive information is sent through the network.'
               )
             ),
             _react2.default.createElement(
@@ -31743,7 +31743,7 @@ var ZFaq = function (_React$Component) {
               _react2.default.createElement(
                 'span',
                 { className: 'faq4b' },
-                'A: MySnowGem Wallet was inspired by'
+                'A: TENT Web Wallet was inspired by'
               ),
               ' ',
               _react2.default.createElement(

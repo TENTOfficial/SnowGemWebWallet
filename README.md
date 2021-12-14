@@ -1,8 +1,8 @@
-# mysnowgem wallet
+# TENT Web Wallet
 
-MySnowGem Wallet is a client-side browser-based wallet for SnowGem.
+TENT Web Wallet is a client-side browser-based wallet for SnowGem.
 
-Officially avaiable at: https://wallet.snowgem.org
+Officially avaiable at: https://web-wallet.tent.app
 
 
 # Running locally

@@ -7,12 +7,12 @@
 	<translation id="faq1a">F: Sind meine privaten Schlüssel geschützt?</translation>
 	<translation id="faq1b">A: Ja, sie sind gesichert und verlassen Ihren Browser nicht.</translation>
 	<translation id="faq2a">F: Wie sicher ist das wirklich? Es ist doch auf einem Internetbrowser!</translation>
-	<translation id="faq2b">A: Die MySnowGem Wallet hat die Kernfunktionen des SnowGem Daemons in JavaScript reproduziert! So wird es möglich gemacht, innerhalb des Browsers Transaktionen zu erstellen und zu unterzeichnen, ohne dass sensible Daten durch das Netzwerk gesendet werden müssen!</translation>
+	<translation id="faq2b">A: Die TENT Web Wallet hat die Kernfunktionen des SnowGem Daemons in JavaScript reproduziert! So wird es möglich gemacht, innerhalb des Browsers Transaktionen zu erstellen und zu unterzeichnen, ohne dass sensible Daten durch das Netzwerk gesendet werden müssen!</translation>
 	<translation id="faq3a">F: Darf ich den Quellcode sehen?</translation>
 	<translation id="faq3b">A:</translation>
 	<translation id="faq3c">Bitte sehr!</translation>
 	<translation id="faq4a">F: Warum macht ihr das?</translation>
-	<translation id="faq4b">A: Die MySnowGem Wallet wurde inspiriert durch</translation>
+	<translation id="faq4b">A: Die TENT Web Wallet wurde inspiriert durch</translation>
 	<translation id="faq4c">MyZenWallet</translation>
 	<translation id="faq4d">welche inspiriert wurde durch</translation>
 	<translation id="faq4e">MyEtherWallet.</translation>

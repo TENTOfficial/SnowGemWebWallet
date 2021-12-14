@@ -30892,7 +30892,7 @@ var ZFooter = function (_React$Component) {
                     _react2.default.createElement(
                       'b',
                       null,
-                      ' wallet.snowgem.org'
+                      ' web-wallet.tent.app'
                     )
                   ),
                   _react2.default.createElement(
@@ -31726,8 +31726,8 @@ var ZGuide = function (_React$Component) {
                 ' ',
                 _react2.default.createElement(
                   'a',
-                  { href: 'https://wallet.snowgem.org' },
-                  'https://wallet.snowgem.org'
+                  { href: 'https://web-wallet.tent.app' },
+                  'https://web-wallet.tent.app'
                 )
               ),
               _react2.default.createElement(
@@ -31818,8 +31818,8 @@ var ZGuide = function (_React$Component) {
                 ' ',
                 _react2.default.createElement(
                   'a',
-                  { href: 'https://wallet.snowgem.org' },
-                  'https://wallet.snowgem.org'
+                  { href: 'https://web-wallet.tent.app' },
+                  'https://web-wallet.tent.app'
                 ),
                 ' ',
                 _react2.default.createElement(

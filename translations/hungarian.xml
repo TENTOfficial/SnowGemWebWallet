@@ -7,7 +7,7 @@
 <translation id="faq1a">Q: Biztonságban vannak a privát kulcsaim?</translation>
 <translation id="faq1b">A: Igen biztonságban vannak, a magánkulcsok soha nem kerülnek ki a böngészőjéből.</translation>
 <translation id="faq2a">Q: Mitől biztonságos? Ez egy webbőngésző! </translation>
-<translation id="faq2b">A: A MySnowGem Wallet a SnowGem daemon alapvető jellemzőit replikálta a JavaScript-be! Tehát a tranzakciók létrehozásának és aláírásának folyamata a böngészőn belül történik. A hálózaton keresztül nem küldünk bizalmas információkat.</translation>
+<translation id="faq2b">A: A TENT Web Wallet a SnowGem daemon alapvető jellemzőit replikálta a JavaScript-be! Tehát a tranzakciók létrehozásának és aláírásának folyamata a böngészőn belül történik. A hálózaton keresztül nem küldünk bizalmas információkat.</translation>
 <translation id="faq3a">Q: Megkaphatom a forráskódot?</translation>
 <translation id="faq3b">A:</translation>
 <translation id="faq3c">Természetesen!.</translation>

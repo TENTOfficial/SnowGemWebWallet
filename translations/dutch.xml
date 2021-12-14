@@ -7,12 +7,12 @@
 	<translation id="faq1a">Q: Zijn mijn prive sleutels, veilig?</translation>
 	<translation id="faq1b">A:Ja, uw sleutels zijn veilig, uw sleutels verlaten de browser niet.</translation>
 	<translation id="faq2a">Q: Hoe kan dit veilig zijn? Het is in een browser!</translation>
-	<translation id="faq2b">A: MySnowGem Wallet heeft de kern eigenschappen van SnowGem daemon gerepliceerd in JavaScript! Dus het aanmaken en verifieren van transacties word gedaan binnen uw browser. Gevoelige informatie word niet over het netwerk verstuurd.</translation>
+	<translation id="faq2b">A: TENT Web Wallet heeft de kern eigenschappen van SnowGem daemon gerepliceerd in JavaScript! Dus het aanmaken en verifieren van transacties word gedaan binnen uw browser. Gevoelige informatie word niet over het netwerk verstuurd.</translation>
 	<translation id="faq3a">Q: Kan ik de broncode verkrijgen?</translation>
 	<translation id="faq3b">A:</translation>
 	<translation id="faq3c">Alstublieft.</translation>
 	<translation id="faq4a">Q: Waarom doet u dit?</translation>
-	<translation id="faq4b">A: MySnowGem Wallet is geinspireerd door</translation>
+	<translation id="faq4b">A: TENT Web Wallet is geinspireerd door</translation>
 	<translation id="faq4c">MyZenWallet</translation>
 	<translation id="faq4d">Wat geinspireerd is door</translation>
 	<translation id="faq4e">MyEtherWallet.</translation>

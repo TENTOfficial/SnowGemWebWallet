@@ -7,7 +7,7 @@
 	<translation id="faq1a">Q: Czy moje prywatne klucze są bezpieczne?</translation>
 	<translation id="faq1b">A: Tak są bezpieczne, twoje prywatne klucze nigdy nie opuszczają twojej przeglądarki.</translation>
 	<translation id="faq2a">Q: Jak to jest bezpiczne? Przecież to odbywa sie przez przeglądarkę!</translation>
-	<translation id="faq2b">A: MySnowGem Wallet replikuje główne właściwości SnowGem demona do JavaScript! Dlatego proces tworzenia i podpisywania transakcji jest robiony z wykorzystaniem przeglądarki. Ale żadne wrażliwe dane nie sa wysyłane przez sieć.</translation>
+	<translation id="faq2b">A: TENT Web Wallet replikuje główne właściwości SnowGem demona do JavaScript! Dlatego proces tworzenia i podpisywania transakcji jest robiony z wykorzystaniem przeglądarki. Ale żadne wrażliwe dane nie sa wysyłane przez sieć.</translation>
 	<translation id="faq3a">Q: Czy moge mieć jakiś dodatkowy zabezpieczający kod?</translation>
 	<translation id="faq3b">A:</translation>
 	<translation id="faq3c">Proszę bardzo.</translation>
@@ -29,7 +29,7 @@
 	<translation id="guide2a">2. Jeśli masz już swój portfel</translation>
 	<translation id="guide2b">Jeśli stworzyłeś już swój portfel na </translation>
 	<translation id="guide2c">z wykorzystaniem sekretnej frazy, wpisz ponownie tą samą frazę.</translation>
-	<translation id="guide2d">Jeśli nie stworzyłes swojego portfela przez wallet.snowgem.org ale jesteś w posiadaniu pliku portfela  </translation>
+	<translation id="guide2d">Jeśli nie stworzyłes swojego portfela przez web-wallet.tent.app ale jesteś w posiadaniu pliku portfela  </translation>
 	<translation id="guide2e">wygenerowanym przez inny GUI Snowgem portel. Naciśnij</translation>
 	<translation id="guide2f">ustawienia</translation>
 	<translation id="guide2g">, wybierz</translation>
